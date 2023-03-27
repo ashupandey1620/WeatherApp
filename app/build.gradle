@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.ashu.weatherapp'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.ashu.weatherapp"
-        minSdk 16
-        targetSdk 32
+        minSdk 19
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
